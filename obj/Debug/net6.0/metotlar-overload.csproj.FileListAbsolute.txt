@@ -1,0 +1,15 @@
+C:\Users\canse\Desktop\Pratikler\metotlar-overload\bin\Debug\net6.0\metotlar-overload.exe
+C:\Users\canse\Desktop\Pratikler\metotlar-overload\bin\Debug\net6.0\metotlar-overload.deps.json
+C:\Users\canse\Desktop\Pratikler\metotlar-overload\bin\Debug\net6.0\metotlar-overload.runtimeconfig.json
+C:\Users\canse\Desktop\Pratikler\metotlar-overload\bin\Debug\net6.0\metotlar-overload.dll
+C:\Users\canse\Desktop\Pratikler\metotlar-overload\bin\Debug\net6.0\metotlar-overload.pdb
+C:\Users\canse\Desktop\Pratikler\metotlar-overload\obj\Debug\net6.0\metotlar-overload.csproj.AssemblyReference.cache
+C:\Users\canse\Desktop\Pratikler\metotlar-overload\obj\Debug\net6.0\metotlar-overload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canse\Desktop\Pratikler\metotlar-overload\obj\Debug\net6.0\metotlar-overload.AssemblyInfoInputs.cache
+C:\Users\canse\Desktop\Pratikler\metotlar-overload\obj\Debug\net6.0\metotlar-overload.AssemblyInfo.cs
+C:\Users\canse\Desktop\Pratikler\metotlar-overload\obj\Debug\net6.0\metotlar-overload.csproj.CoreCompileInputs.cache
+C:\Users\canse\Desktop\Pratikler\metotlar-overload\obj\Debug\net6.0\metotlar-overload.dll
+C:\Users\canse\Desktop\Pratikler\metotlar-overload\obj\Debug\net6.0\refint\metotlar-overload.dll
+C:\Users\canse\Desktop\Pratikler\metotlar-overload\obj\Debug\net6.0\metotlar-overload.pdb
+C:\Users\canse\Desktop\Pratikler\metotlar-overload\obj\Debug\net6.0\metotlar-overload.genruntimeconfig.cache
+C:\Users\canse\Desktop\Pratikler\metotlar-overload\obj\Debug\net6.0\ref\metotlar-overload.dll
